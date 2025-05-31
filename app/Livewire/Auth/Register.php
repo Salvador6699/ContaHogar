@@ -1,6 +1,7 @@
 <?php
 
-// app/Livewire/Auth/Register.php
+namespace App\Livewire\Auth;
+
 use Livewire\Attributes\Layout;
 use Livewire\Component;
 
